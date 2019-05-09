@@ -1,4 +1,4 @@
-# CanvasRecorder.js
+# [CanvasRecorder.js](https://luisarmando-testcoder.github.io/CanvasRecorder/CanvasRecorder.js)
 
 Record a canvas to webm video without effecting rendering performance.
 
